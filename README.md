@@ -33,20 +33,8 @@ Agora voce pode testar o Back-End e Front-End do Projeto Escola Mobile
 
 ![MerDER](./docs/wireframes/der.png)
 
-## Tela de login
-![](./docs/wireframes/principal.png)
-
-## erro de cadastro
-![](./docs/wireframes/erro.png)
-
-## Turmas
-![](./docs/wireframes/cadastro.png)
-
-## cadastrar turma nova
-![](./docs/wireframes/Captura%20de%20tela%202025-10-22%20140758.png)
-
-## Excluir
-![](./docs/wireframes/excluir1.png)
-
-
-
+![](./docs/wireframes/Captura%20de%20tela%202025-10-22%20170334.png)
+![](./docs/wireframes/Captura%20de%20tela%202025-10-22%20170344.png)
+![](./docs/wireframes/Captura%20de%20tela%202025-10-22%20170353.png)
+![](./docs/wireframes/Captura%20de%20tela%202025-10-22%20170404.png)
+![](./docs/wireframes/Captura%20de%20tela%202025-10-22%20170419.png)
